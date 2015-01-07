@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SmarthouseDAL">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../SmarthouseDAL/out/artifacts/SmarthouseDAL_jar/SmarthouseDAL.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
